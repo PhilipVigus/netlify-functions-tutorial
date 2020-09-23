@@ -4,7 +4,8 @@
   "description": "https://github.com/DavidWells/netlify-functions-workshop#workshop-lessons",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start:dev": "netlify dev",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
