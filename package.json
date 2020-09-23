@@ -1,0 +1,23 @@
+{
+  "name": "netlify-functions-tutorial",
+  "version": "1.0.0",
+  "description": "https://github.com/DavidWells/netlify-functions-workshop#workshop-lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilipVigus/netlify-functions-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilipVigus/netlify-functions-tutorial/issues"
+  },
+  "homepage": "https://github.com/PhilipVigus/netlify-functions-tutorial#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
